@@ -11,10 +11,14 @@
             "id": "8ecdb2f63e812a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "technical_components_map.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "technical_components_map"
             }
           }
         ]
@@ -181,12 +185,16 @@
   },
   "active": "8ecdb2f63e812a62",
   "lastOpenFiles": [
+    "hospital_resilience_5S_assessment.md",
+    "technical_components_map_v2.md",
+    "hospital_resilience_assessment_v2.md",
+    "technical_components_map.md",
     "hospital_resilience_assessment.md",
+    "tools_and_checklists.md",
     "hospital_resilience_assessment.xlsx",
     "v1.1 hospital_resilience_assessment.pdf",
     "v1 hospital_resilience_assessment.pdf",
     "hospital_resilience_assessment.pdf",
-    "tools_and_checklists.md",
     "guide.md",
     "g.md",
     "guide.pdf"
